@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=신희성의%20깃%20허브%20저장소에%20오신것을%20환영합니다&descAlignY=55&descAlign=50&descSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=신희성의%20깃%20허브%20저장소에%20오신것을%20환영합니다&descAlignY=55&descAlign=50&descSize=35)
 
 ### 💬 About Me
 * 안녕하세요! 도전을 즐기는 신입 개발자 신희성 입니다.
