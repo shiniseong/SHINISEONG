@@ -27,7 +27,7 @@
 
 [자기소개서] [포트폴리오]
 
-### 
+### 🖊️ 기술 스택
 <!--
 **SHINISEONG/SHINISEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
