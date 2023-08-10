@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+ junit5
  Sequelize
 jenkins
  express
