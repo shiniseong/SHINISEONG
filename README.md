@@ -28,7 +28,7 @@
 [자기소개서] [포트폴리오]
 
 ### 💪 기술 스택
-**Language**
+__Language__
   <p>
    <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
