@@ -33,9 +33,8 @@ __Language__
    <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
   </p>
-  
+
 **FrontEnd**
-  
   <p>
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
    <img src="https://img.shields.io/badge/socket.io.Client-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
@@ -45,7 +44,6 @@ __Language__
   </p>
   
 **BackEnd**
-
   <p>
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
