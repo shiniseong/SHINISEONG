@@ -25,7 +25,11 @@
   
 </details>
 
-[자기소개서] [포트폴리오]
+[자기소개서(링크)](https://drive.google.com/file/d/1bLjjmRAI7j-_i5XuFVVkHXJOVqsL57Mt/view?usp=drive_link)
+
+### 📝 포트폴리오
+
+[포트폴리오(링크)](https://quilted-operation-5d5.notion.site/231c48ba3db84fd3ad8f6c53662132a4?pvs=4)
 
 ### 💪 기술 스택
 __Language__
