@@ -28,13 +28,13 @@
 [자기소개서] [포트폴리오]
 
 ### 💪 기술 스택
-##### Language
+**Language**
   <p>
    <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
   </p>
   
-##### FrontEnd
+**FrontEnd**
   
   <p>
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
@@ -44,7 +44,7 @@
    <img src="https://img.shields.io/badge/MUI-007ACC?style=for-the-badge&logo=MUI&logoColor=white"/>
   </p>
   
-##### BackEnd
+**BackEnd**
 
   <p>
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
@@ -53,24 +53,24 @@
    <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   </p>
   
-##### ORM & SQL Mapper
+**ORM & SQL Mapper**
   <p>
    <img src="https://img.shields.io/badge/mybatis-010101?style=for-the-badge&logo=mybatis&logoColor=white"/>
    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
   </p>
   
-##### DataBase
+**DataBase**
   <p>
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
   </p>
   
-##### Cloud
+**Cloud**
   <p>
    <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
   </p>
   
-##### Tools
+**Tools**
   <p>
    <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"> 
    <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
