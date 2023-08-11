@@ -29,7 +29,7 @@
 
 ### 📝 포트폴리오
 
-[포트폴리오(링크)](https://quilted-operation-5d5.notion.site/231c48ba3db84fd3ad8f6c53662132a4?pvs=4)
+[포트폴리오(링크)](https://url.kr/3ifdvg)
 
 ### 💪 기술 스택
 __Language__
