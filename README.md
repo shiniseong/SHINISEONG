@@ -89,7 +89,7 @@
 ### persistence-code-generator 라이브러리 개발
 **개발 기간: 2024.08 ~ 2024.09**
 
-[개발 수기](https://shin-e-dog.tistory.com/116)
+[개발 수기 블로그 포스팅](https://shin-e-dog.tistory.com/116)
 
 #### 주요 역할 및 성과
 - KSP(Kotlin Symbol Processing)를 활용한 영속성 계층 코드 자동 생성
@@ -104,7 +104,7 @@
 ### DDL-DSL 라이브러리 개발
 **프로젝트 기간: 2024.07 ~ 2024.08**
 
-[개발 수기](https://shin-e-dog.tistory.com/113)
+[개발 수기 블로그 포스팅](https://shin-e-dog.tistory.com/113)
 
 #### 주요 역할 및 성과
 - SQLite, MS-SQL 등 다양한 RDBMS 지원을 위한 DDL DSL 개발
@@ -119,7 +119,7 @@
 ### BridgeApi 라이브러리 개발 
 **프로젝트 기간: 2024.06 ~ 2024.07**
 
-
+[개발 수기 블로그 포스팅](https://shin-e-dog.tistory.com/105)
 
 #### 주요 역할 및 성과
 - 웹뷰와 네이티브 코드 간 통신을 위한 브릿지 API 개발
@@ -131,10 +131,14 @@
 - Android WebView
 
 ### Epson 써멀 프린터 라이브러리 개발
+
+[개발 수기 블로그 포스팅](https://shin-e-dog.tistory.com/125)
+
 #### 주요 역할 및 성과
 - 네트워크, 시리얼, USB 등 다양한 연결 방식 지원 개발
 - 텍스트, 바코드, QR코드, 이미지 등 다양한 출력 기능 제공
 - 연결 상태 모니터링 및 에러 처리 시스템 제공
+
 #### 사용 기술
 - Kotlin
 
