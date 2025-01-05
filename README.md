@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=신희성의%20깃%20허브%20저장소에%20오신것을%20환영합니다&descAlignY=55&descAlign=50&descSize=35)
-
 # 신희성 | Backend Developer
 
 ## 👋 Intro
