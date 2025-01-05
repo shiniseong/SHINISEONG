@@ -88,6 +88,7 @@
 
 ### persistence-code-generator 라이브러리 개발
 **개발 기간: 2024.08 ~ 2024.09**
+[개발 수기](https://shin-e-dog.tistory.com/116)
 
 #### 주요 역할 및 성과
 - KSP(Kotlin Symbol Processing)를 활용한 영속성 계층 코드 자동 생성
