@@ -126,7 +126,7 @@
 
 
 
-## 🔧 Technical Skills
+## 🔧 기술 스택
 
 ### Backend
 - Kotlin
@@ -140,7 +140,7 @@
 - Hexagonal Architecture
 - Domain-Driven Design
 
-## Certi.
+## 자격증
 - NAVER CLOUD PLATFORM Certified Expert
 
 ## 📚 Education
@@ -149,7 +149,8 @@
   - Java 기반 웹 풀스택 과정
   - Spring Boot, React 실무 프로젝트 수행
 
-## 📞 Contact
+## 📞 연락처
 - Email: hss275989@gmail.com
 - Github: https://github.com/shiniseong
 - Blog: https://shin-e-dog.tistory.com/
+- Kakao: https://open.kakao.com/o/shucDW8g
