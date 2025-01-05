@@ -9,7 +9,7 @@
 
 ## 💼 경력 사항
 ### 아이엠티소프트 (2023.08 ~ 현재)
-- 안드로이드 POS, 윈도우즈 POS 등 오프라인 결제 솔루션 개발
+- 안드로이드 POS, 안드로이드 TableOrder 윈도우즈 KIOSK 등 오프라인 결제 솔루션 개발
 - BridgeApi, DDL-DSL, persistence-code-generator 등 사내 라이브러리 개발 
 - 멀티플랫폼 POS 프로젝트 아키텍처 설계
 
