@@ -67,6 +67,7 @@
 - 타 팀 프로젝트에도 도입되어 개발 생산성 향상에 기여
 
 [KSP 기반 코드 생성기 개발 수기 블로그 포스팅](https://shin-e-dog.tistory.com/116)
+
 [DDL-DSL 개발 수기 블로그 포스팅](https://shin-e-dog.tistory.com/113)
 
 ### 3. WebView JavaScript Bridge 인터페이스 표준화
@@ -87,7 +88,8 @@
 - 안드로이드 네이티브 코드도 REST API 형태로 호출함으로서, 클라이언트 라이브러리만 axios등으로 교체하는 것만으로(method와 uri는 그대로 사용) 크로스플랫폼 지원 가능
 
 [BridgeApi 개발 수기 블로그 포스팅](https://shin-e-dog.tistory.com/105)
-[BridgeApi 저장소](https://github.com/shiniseong/bridge-api)
+
+[BridgeApi 소스 저장소](https://github.com/shiniseong/bridge-api)
 
  
 ## 🚀 신규 개발 프로젝트
