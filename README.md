@@ -1,6 +1,7 @@
 # 신희성 | Backend Developer
 **문제 정의부터 구조 개선까지 주도해 온 Kotlin 서버 개발자**
 - Portfolio web: [https://shiniseong.github.io](https://shiniseong.github.io/)
+- LinkedIn: [https://www.linkedin.com/in/%ED%9D%AC%EC%84%B1-%EC%8B%A0-7a5916281/](https://www.linkedin.com/in/%ED%9D%AC%EC%84%B1-%EC%8B%A0-7a5916281/)
 - Email: [hss275989@gmail.com](mailto:hss275989@gmail.com)
 - GitHub: https://github.com/shiniseong
 - Blog: [https://shin-e-dog.tistory.com](https://shin-e-dog.tistory.com/)
