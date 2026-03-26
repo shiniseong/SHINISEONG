@@ -3,6 +3,8 @@
 **견고한 설계 철학과 높은 구현 생산성을 보유한 백엔드 개발자**
 
 - Portfolio web: [https://shiniseong.github.io/](https://shiniseong.github.io/)
+- Portfolio pdf: [다운로드](https://pub-b5537e93b98346e3a7060bd48da763d8.r2.dev/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%92%E1%85%B4%E1%84%89%E1%85%A5%E1%86%BC-Portfolio.pdf)
+- Resume pdf: [다운로드](https://pub-b5537e93b98346e3a7060bd48da763d8.r2.dev/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%92%E1%85%B4%E1%84%89%E1%85%A5%E1%86%BC-Resume.pdf)
 - LinkedIn: [https://www.linkedin.com/in/희성-신-7a5916281/](https://www.linkedin.com/in/%ED%9D%AC%EC%84%B1-%EC%8B%A0-7a5916281/)
 - Email: [hss275989@gmail.com](mailto:hss275989@gmail.com)
 - GitHub: [https://github.com/shiniseong](https://github.com/shiniseong)
