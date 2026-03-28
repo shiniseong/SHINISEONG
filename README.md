@@ -24,7 +24,7 @@
 ## Core Skills
 
 - Language: **Kotlin**, SQL
-- Backend: **Spring Boo**t, Spring WebFlux, gRPC, Armeria
+- Backend: **Spring Boot**, Spring WebFlux, gRPC, Armeria
 - Data: **R2DBC, jOOQ,** Redis, SQLite, MS-SQL, MySQL
 - Auth / Integration: AWS Cognito, JWT, SMS OTP, 본인인증, 외부 기기 연동
 - Architecture: **Hexagonal Architecture, 멀티모듈 모노레포**, Batch / Outbox
