@@ -1,4 +1,4 @@
-**견고한 설계 철학과 높은 구현 생산성을 보유한 백엔드 개발자**
+## 견고한 설계 철학과 높은 구현 생산성을 보유한 백엔드 개발자
 
 - Portfolio web: https://shiniseong.github.io/
 - LinkedIn: [https://www.linkedin.com/in/희성-신-7a5916281/](https://www.linkedin.com/in/%ED%9D%AC%EC%84%B1-%EC%8B%A0-7a5916281/)
